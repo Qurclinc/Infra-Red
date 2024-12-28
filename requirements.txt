@@ -2,3 +2,4 @@ colorama
 pystyle
 requests
 proxyscrape
+bs4
